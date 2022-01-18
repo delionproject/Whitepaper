@@ -10,10 +10,15 @@
 	<br />
 	Namun masih banyak hal yang belum maximal selama tiga tahun terakhir ini yang membuat kami terhambat khususnya pada salah satu produk kami yaitu <b>Deliondex</b>. Oleh sebab itu Delion Project telah melakukan banyak perubahan dan kami menargetkan agar Delion Project menjadi salah satu pemain besar dalam dunia investasi cryptocurrency.
 	<br />
-	Tahun 2022 kami berfokus untuk memaximalkan keuntungan melalui semua lini bisnis kami dan meningkatkan nilai ekonomi pada Delion Coin khususnya terhadap Masternode Delion selain daripada harga pasar yang berubah-ubah.
+	Tahun 2022 kami berfokus untuk memaximalkan keuntungan melalui semua lini bisnis kami dan meningkatkan nilai ekonomi pada Delion Coin khususnya terhadap Masternode Delion selain daripada harga pasar yang berubah-ubah. Selain daripada itu, kami lebih menitikberatkan pengembangan pada Deliondex.
 </p>
 
 # Visi dan Misi
 1. Menjadi sebuah ekosistem yang berfokus untuk menghasilkan keuntungan.
 2. Menambahkan nilai ekonomi dan hak istimewa kepada pemilik Delion Masternode di dalam seluruh Bisnis yang dijalankan oleh Delion Project.
 3. Berexpansi melalui Masternodes.biz dan Deliondex
+
+# Masalah
+Teknologi blockchain telah berkembang dengan pesat, menjadi sangat populer dan diadopsi oleh masyarakat luas. Namun justru karena semakin populer sehingga menciptakan masalah baru yang akan dijabarkan di bawah ini
+##
+Centralized Exchange (CEX) semakin tertekan dengan regulasi dan aturan yang ditetapkan oleh banyak pemerintah di negara tempat Exchange tersebut berada.
