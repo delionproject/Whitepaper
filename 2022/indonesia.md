@@ -26,3 +26,10 @@ Centralized Exchange (CEX) semakin tertekan dengan regulasi dan aturan yang dite
 Regulasi tersebut bertujuan baik, yaitu untuk mencegah penipuan dan tindakan pencucian uang. Oleh sebab itu regulator mewajibkan operator exchange untuk mengumpulkan data pribadi pelanggan atau yang disebut dengan "Know Your Customer (KYC)". Tetapi disisi lain, hal ini bertentangan dengan prinsip dasar dari teknologi blockchain itu sendiri yaitu <i>Decentralized</i> dan <i>Anonymous</i>.
 ## 2. Biaya network yang tinggi pada Decentralized Exchange (DEX)
 Exchange berbasis blockchain atau yang disebut dengan Decentralized Exchange (DEX) telah lama hadir demi menjawab masalah yang ada pada Centralized Exchange, namun muncul masalah lain yaitu terdapat <i>blockchain fee</i> yang cukup mahal dalam melakukan transaksi di DEX. Sebagai contoh; <i>gas fee</i> pada jaringan Ethereum sangatlah mahal, dan pada blockchain yang lain pun masih ada fee yang membuat <i>investor</i> dan <i>trader</i> pemula kesulitan untuk melakukan banyak transaksi pada DEX tersebut.
+## 3. Masalah spesifik yang terjadi pada Deliondex
+Selama ini Deliondex telah berjalan dengan baik dan aman pada jaringan Bitshares. Teknologi Bitshares sangat canggih dan paling mutakhir untuk transaksi keuangan berbasis <i>crypto</i>, namun sekalipun tidak mahal biaya <i>blockchain</i> pada jaringan Bitshares menjadi penghalang bagi kami untuk meningkatkan volume transaksi, sebab bagaimanapun juga kami membutuhkan banyak sekali koin BTS untuk transaksi yang besar. Makin banyak BTS yang dibutuhkan maka semakin banyak biaya yang harus dikeluarkan untuk membeli koin BTS.
+
+# Solusi
+Deliondex harus menemukan blockchain sejenis yang sama dengan Bitshares agar dapat berkembang dan keluar dari masalah utama yang menghalang perkembangan Deliondex selama ini. Dengan terbentuknya <b>ALTEChain</b> yang pada dasarnya adalah duplikat dari teknologi Bitshares dengan modifikasi penghapusan <i>network fee</i> dapat menjadi solusi sempurna untuk Deliondex.
+<br />
+Untuk itu kami memilih untuk memindahkan Deliondex dari jaringan Bitshares ke <i>sidechain</i> daripada Altecoin yaitu <b>ALTEChain</b>
