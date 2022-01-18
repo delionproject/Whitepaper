@@ -20,5 +20,5 @@
 
 # Masalah
 Teknologi blockchain telah berkembang dengan pesat, menjadi sangat populer dan diadopsi oleh masyarakat luas. Namun justru karena semakin populer sehingga menciptakan masalah baru yang akan dijabarkan di bawah ini
-##
+## Regulasi yang ketat pada Centralized Exchange (CEX)
 Centralized Exchange (CEX) semakin tertekan dengan regulasi dan aturan yang ditetapkan oleh banyak pemerintah di negara tempat Exchange tersebut berada.
