@@ -14,6 +14,6 @@
 </p>
 
 # Visi dan Misi
-	1. Menjadi sebuah ekosistem yang berfokus untuk menghasilkan keuntungan.
-	2. Menambahkan nilai ekonomi dan hak istimewa kepada pemilik Delion Masternode di dalam seluruh Bisnis yang dijalankan oleh Delion Project.
-	3. Berexpansi melalui Masternodes.biz dan Deliondex
+1. Menjadi sebuah ekosistem yang berfokus untuk menghasilkan keuntungan.
+2. Menambahkan nilai ekonomi dan hak istimewa kepada pemilik Delion Masternode di dalam seluruh Bisnis yang dijalankan oleh Delion Project.
+3. Berexpansi melalui Masternodes.biz dan Deliondex
