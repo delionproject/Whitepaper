@@ -13,3 +13,7 @@
 	Tahun 2022 kami berfokus untuk memaximalkan keuntungan melalui semua lini bisnis kami dan meningkatkan nilai ekonomi pada Delion Coin khususnya terhadap Masternode Delion selain daripada harga pasar yang berubah-ubah.
 </p>
 
+# Visi dan Misi
+	1. A business and money making driven ecosystem
+	2. Add an economic value in Delion Project Businesses other than the price on exchange to every Masternode
+	3. Focus on expanding the 2 existing businesses: Masternodes.biz and Deliondex
