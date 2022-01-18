@@ -14,6 +14,6 @@
 </p>
 
 # Visi dan Misi
-	1. A business and money making driven ecosystem
-	2. Add an economic value in Delion Project Businesses other than the price on exchange to every Masternode
-	3. Focus on expanding the 2 existing businesses: Masternodes.biz and Deliondex
+	1. Menjadi sebuah ekosistem yang berfokus untuk menghasilkan keuntungan.
+	2. Menambahkan nilai ekonomi dan hak istimewa kepada pemilik Delion Masternode di dalam seluruh Bisnis yang dijalankan oleh Delion Project.
+	3. Berexpansi melalui Masternodes.biz dan Deliondex
