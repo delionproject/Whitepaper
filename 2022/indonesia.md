@@ -20,5 +20,9 @@
 
 # Masalah
 Teknologi blockchain telah berkembang dengan pesat, menjadi sangat populer dan diadopsi oleh masyarakat luas. Namun justru karena semakin populer sehingga menciptakan masalah baru yang akan dijabarkan di bawah ini
-## Regulasi yang ketat pada Centralized Exchange (CEX)
+## 1. Regulasi yang ketat pada Centralized Exchange (CEX)
 Centralized Exchange (CEX) semakin tertekan dengan regulasi dan aturan yang ditetapkan oleh banyak pemerintah di negara tempat Exchange tersebut berada.
+<br />
+Regulasi tersebut bertujuan baik, yaitu untuk mencegah penipuan dan tindakan pencucian uang. Oleh sebab itu regulator mewajibkan operator exchange untuk mengumpulkan data pribadi pelanggan atau yang disebut dengan "Know Your Customer (KYC)". Tetapi disisi lain, hal ini bertentangan dengan prinsip dasar dari teknologi blockchain itu sendiri yaitu <i>Decentralized</i> dan <i>Anonymous</i>.
+## 2. Biaya network yang tinggi pada Decentralized Exchange (DEX)
+Exchange berbasis blockchain atau yang disebut dengan Decentralized Exchange (DEX) telah lama hadir demi menjawab masalah yang ada pada Centralized Exchange, namun muncul masalah lain yaitu terdapat <i>blockchain fee</i> yang cukup mahal dalam melakukan transaksi di DEX. Sebagai contoh; <i>gas fee</i> pada jaringan Ethereum sangatlah mahal, dan pada blockchain yang lain pun masih ada fee yang membuat <i>investor</i> dan <i>trader</i> pemula kesulitan untuk melakukan banyak transaksi pada DEX tersebut.
