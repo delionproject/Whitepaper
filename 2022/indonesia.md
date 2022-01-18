@@ -31,9 +31,9 @@ Selama ini Deliondex telah berjalan dengan baik dan aman pada jaringan Bitshares
 
 # Solusi
 Deliondex harus menemukan blockchain sejenis yang sama dengan Bitshares agar dapat berkembang dan keluar dari masalah utama yang menghalang perkembangan Deliondex selama ini. Dengan terbentuknya <b>ALTEChain</b> yang pada dasarnya adalah duplikat dari teknologi Bitshares dengan modifikasi penghapusan <i>network fee</i> dapat menjadi solusi sempurna untuk Deliondex.
-<br />
+<br /><br />
 Selain itu Deliondex berfungsi layaknya sebuah DEX sehingga kami tidak akan mengumpulkan data pengguna atau KYC. Dengan ini maka Deliondex dapat berjalan secara terdesentralisasi dan anonim.
-<br />
+<br /><br />
 Untuk itu kami memilih untuk memindahkan Deliondex dari jaringan Bitshares ke <i>sidechain</i> daripada Altecoin yaitu <b>ALTEChain</b>.
 
 ## Pengembangan lanjutan
