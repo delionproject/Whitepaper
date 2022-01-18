@@ -43,3 +43,18 @@ Dengan tidak adanya <i>network fee</i> kami bebas untuk melakukan hal-hal beriku
 - Platform penyedia transaksi <i>Over The Counter</i>. Pengguna dapat membuat <i>pair</i> tidak resmi antara suatu aset terhadap aset yang lain namun transaksi terjadi dengan aman atau <i>trustless</i> dan <i>anonymous</i> antara para pengguna.
 - Lebih jauh lagi Deliondex dapat menjadi platform investasi dengan menawarkan <i>Farming</i> untuk <i>stable coin</i>.
 - Airdrop Platform; dengan semakin berkembangnya basis pengguna Deliondex dan ALTEChain, kami bisa menawarkan Deliondex sebagai platform untuk melakukan <i>airdrop</i> khususnya untuk koin baru.
+
+# Pemasaran
+Untuk meningkatkan kehadiran Deliondex di dunia cryptocurrency maka berikut adalah target kami pada tahun 2022
+- Kami menargetkan agar Deliondex terdaftar pada <b>Coinmarketcap</b> dan <b>Coingecko</b>.
+- Mendaftarkan aset stabil seperti USDT dan IDRT untuk meningkatkan volume transaksi.
+- Pembuatan ulang website khusus Deliondex pada domain www.deliondex.com. Menampilkan informasi-informasi lebih detail dan lebih banyak petunjuk-petunjuk penggunaan platform pada website.
+- Melakukan penetrasi terhadap investor Indonesia yang selama ini harus melalui banyak sekali exchange untuk mencairkan aset masternode mereka ke dalam rupiah.
+- Kolaborasi dengan proyek-proyek blockchain yang memiliki basis pengguna yang besar.
+
+# Kesimpulan
+Tahun ini fokus kami akan sangat di titikberatkan kepada Deliondex melihat potensi perkembangan yang besar setelah bermigrasi ke ALTEChain. Adapun bagi investor DLN, kami akan melakukan <i>buyback</i> atau menambah likuiditas pada <i>market</i> untuk meningkatkan kepercayaan calon investor.
+<br /><br />
+Sementara untuk Masternodes.biz, kami akan menambahkan fitur-fitur baru yang selama ini tidak tersedia di platform masternode terbesar yaitu MNO. Masternodes.biz tidak berusaha untuk menjadi yang terbesar, tetapi berusaha menjadi yang terbaik dan terlengkap.
+<br /><br />
+Semua pengembangan ini melibatkan fitur-fitur yang menjadikan pemilik masternode DLN mendapatkan hak-hak khusus dalam ekosistem Delion Project.
