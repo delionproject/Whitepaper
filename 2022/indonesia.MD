@@ -1,4 +1,4 @@
-<p class="text-center">Delion Project</p>
+<h1 align="center">Delion Project</h1>
 <br>
 
 	1. A business and money making driven ecosystem
