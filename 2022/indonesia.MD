@@ -1,4 +1,5 @@
-<h1 align="center">Delion Project</h1>
+<h1 align="center">DELION PROJECT</h1>
+<h4 align="center"><b>Beauty comes out of ashes</b></h4>
 <br>
 
 	1. A business and money making driven ecosystem
