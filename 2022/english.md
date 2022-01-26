@@ -24,7 +24,7 @@ Blockchain technology has developed rapidly, became very popular and was adopted
 ## 1. Strict regulation on Centralized Exchange (CEX)
 Centralized Exchange (CEX) is getting more and more pressured by the regulations and rules set by many governments in the countries where the Exchange is located.
 <br />
-The regulation has a good purpose; to prevent fraud and money laundering. Therefore, the regulator requires exchange operators to collect customer personal data or what is known as "Know Your Customer (KYC)". But on the other hand, this is contrary to the basic principles of blockchain technology itself, namely <b>Decentralized</i> and <i>Anonymous</b>.
+The regulation has a good purpose; to prevent fraud and money laundering. Therefore, the regulator requires exchange operators to collect customer personal data or what is known as "Know Your Customer (KYC)". But on the other hand, this is contrary to the basic principles of blockchain technology itself, namely <b>Decentralized</b> and <b>Anonymous</b>.
 ## 2. High network costs on Decentralized Exchange (DEX)
 Blockchain-based exchanges or so-called Decentralized Exchange (DEX) have been around for a long time to answer the problems that exist in the Centralized Exchange, but another problem arises; there are blockchain fees which are quite expensive in conducting transactions on DEX. As an example; The gas fees on the Ethereum network is very expensive, and on other blockchains there are still fees that make it difficult for new investors and traders to do many transactions on the DEX.
 ## 3. Specific issues that occur with Deliondex
@@ -35,7 +35,7 @@ Deliondex must find a blockchain of the same type as Bitshares in order to grow 
 <br /><br />
 Apart from that Deliondex functions like a DEX so we will not collect user data or KYC. With this, Deliondex can run in a decentralized and anonymous manner.
 <br /><br />
-For that we chose to move Deliondex from Bitshares network to Altechain's <i>sidechain</i> called <b>ALTEChain</b>.
+For that we chose to move Deliondex from Bitshares network to Altechain's sidechain called <b>ALTEChain</b>.
 
 ## Development Plan
 ### 1. Deliondex
@@ -53,9 +53,9 @@ With no network fee we are free to do the following:
 Introducing <b>MNBIZT</b>! <b>MNBIZT</b> is a Non Fungible Token which only works and runs on the Masternodes.biz platform.
 - 1 <b>MNBIZT</b> = 1 DLN Masternode. DLN Masternode owners can claim 1 <b>MNBIZT</b> on the Masternodes.biz platform. Applicable multiples and not limited. The number of <b>MNBIZT</b> is equal to the number of DLN masternodes owned.
 - <b>MNBIZT</b> is used to get a 30% discount on masternode hosting prices Especially for IPv6 nodes.
-- Asset listing on Masternodes.biz will be through <i>voting</i> which can only be done using <b>MNBIZT</b>.
+- Asset listing on Masternodes.biz will be through voting which can only be done using <b>MNBIZT</b>.
 - Payment option for banner ads using <b>MNBIZT</b>.
-- Paid <i>Premium Plan</i> for <i>Address Tracking</i> feature.
+- Pay <b>Premium Plan</b> for <b>Address Tracking</b> feature.
 
 #### New Features in 2022
 - Comments and rating fields on each cryptocurrency page.
