@@ -19,7 +19,7 @@
 2. Adds economic value and privileges to Delion Masternode owners across all Businesses run by the Delion Project.
 3. Expanding through Masternodes.biz and Deliondex
 
-# Masalah
+# The Problems
 Blockchain technology has developed rapidly, became very popular and was adopted by the wider community. However, it is precisely because of its increasing popularity that it creates new problems which will be described below
 ## 1. Strict regulation on Centralized Exchange (CEX)
 Centralized Exchange (CEX) is getting more and more pressured by the regulations and rules set by many governments in the countries where the Exchange is located.
@@ -30,14 +30,14 @@ Blockchain-based exchanges or so-called Decentralized Exchange (DEX) have been a
 ## 3. Specific issues that occur with Deliondex
 So far Deliondex has been running well and safely on the Bitshares network. Bitshares technology is very sophisticated and up-to-date for crypto-based financial transactions, but even though the blockchain costs are inexpensive on the Bitshares network, it becomes a barrier for us to increase transaction volume, because after all we need lots of BTS coins for big deals. The more BTS you need, the more costs you have to pay to buy BTS coins.
 
-# Solution
+# The Solution
 Deliondex must find a blockchain of the same type as Bitshares in order to grow and get out of the main problem that has hindered Deliondex's development so far. With the creation of <b>ALTEChain</b> which is basically a duplicate of Bitshares technology with the modification of removing network fees can be a perfect solution for Deliondex.
 <br /><br />
 Apart from that Deliondex functions like a DEX so we will not collect user data or KYC. With this, Deliondex can run in a decentralized and anonymous manner.
 <br /><br />
 For that we chose to move Deliondex from Bitshares network to Altechain's <i>sidechain</i> called <b>ALTEChain</b>.
 
-## Pengembangan lanjutan
+## Development Plan
 ### 1. Deliondex
 With no network fee we are free to do the following:
 - List as many assets as we want including the popular tokens and stable coins.
