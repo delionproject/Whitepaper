@@ -37,6 +37,7 @@ Selain itu Deliondex berfungsi layaknya sebuah DEX sehingga kami tidak akan meng
 Untuk itu kami memilih untuk memindahkan Deliondex dari jaringan Bitshares ke <i>sidechain</i> daripada Altecoin yaitu <b>ALTEChain</b>.
 
 ## Pengembangan lanjutan
+### Deliondex
 Dengan tidak adanya <i>network fee</i> kami bebas untuk melakukan hal-hal berikut ini:
 - Mendaftarkan aset sebanyak mungkin yang kami inginkan termasuk <i>token</i> dan <i>stable coin</i> yang populer.
 - Menawarkan bebas biaya <i>trading</i> kepada para pemilik Masternode DLN sehingga meningkatkan ketertarikan calon investor terhadap coin DLN.
@@ -45,6 +46,7 @@ Dengan tidak adanya <i>network fee</i> kami bebas untuk melakukan hal-hal beriku
 - Platform penyedia transaksi <i>Over The Counter</i>. Pengguna dapat membuat <i>pair</i> tidak resmi antara suatu aset terhadap aset yang lain namun transaksi terjadi dengan aman atau <i>trustless</i> dan <i>anonymous</i> antara para pengguna.
 - Lebih jauh lagi Deliondex dapat menjadi platform investasi dengan menawarkan <i>Farming</i> untuk <i>stable coin</i>.
 - Airdrop Platform; dengan semakin berkembangnya basis pengguna Deliondex dan ALTEChain, kami bisa menawarkan Deliondex sebagai platform untuk melakukan <i>airdrop</i> khususnya untuk koin baru.
+
 
 # Pemasaran
 Untuk meningkatkan kehadiran Deliondex di dunia cryptocurrency maka berikut adalah target kami pada tahun 2022
