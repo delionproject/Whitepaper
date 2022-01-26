@@ -48,13 +48,22 @@ Dengan tidak adanya <i>network fee</i> kami bebas untuk melakukan hal-hal beriku
 - Airdrop Platform; dengan semakin berkembangnya basis pengguna Deliondex dan ALTEChain, kami bisa menawarkan Deliondex sebagai platform untuk melakukan <i>airdrop</i> khususnya untuk koin baru.
 
 ### 2. Masternodes.biz
-#### * MNBIZT (Non Fungible Token) for Masternodes.biz platform.
+#### MNBIZT (Non Fungible Token) for Masternodes.biz platform.
 Memperkenalkan <b>MNBIZT</b>! <b>MNBIZT</b> adalah <i>Non Fungible Token</i> yang hanya berfungsi dan berjalan di dalam platform Masternodes.biz.
 - 1 <b>MNBIZT</b> = 1 Masternode DLN. Pemilik Masternode DLN dapat mengklaim 1 <b>MNBIZT</b> di platform Masternodes.biz. Berlaku kelipatan dan tidak dibatasi. Jumlah <b>MNBIZT</b> sama dengan jumlah masternode DLN yang dimiliki.
 - <b>MNBIZT</b> digunakan untuk mendapatkan diskon harga masternode hosting sebesar 30% Khusus untuk node IPv6.
 - Pendaftaran aset pada Masternodes.biz akan melalui <i>voting</i> yang hanya dapat dilakukan menggunakan <b>MNBIZT</b>.
 - Opsi pembayaran untuk iklan banner menggunakan <b>MNBIZT</b>
 - Membayar <i>Premium Plan</i> untuk fitur <i>Address Tracking</i>
+
+#### Fitur Tambahan
+- Kolom komentar dan <i>rating</i> pada halaman masing-masing cryptocurrency.
+- Liquidity section: Menampilkan likuiditas pasar pada koin yang dipilih.
+- Address tracking dan Portfolio: Monitor saldo dari sebuah alamat koin secara langsung dan <i>real time</i> beserta nilai di dalam alamat tersebut. Notifikasi telegram bot untuk setiap transaksi terima dan kirim.
+- Blockchain explorer dengan model berlangganan dan dibayar hanya dengan menggunakan koin DLN.
+- Bulk hosting.
+- Notifikasi di website dan telegram untuk perubahan collateral dan reward pada suatu koin
+- PoS (Staking) Profitability section
 
 # Pemasaran
 Untuk meningkatkan kehadiran Deliondex di dunia cryptocurrency maka berikut adalah target kami pada tahun 2022
