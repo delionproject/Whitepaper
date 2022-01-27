@@ -8,8 +8,7 @@
 	<br />
 	The purpose is investors can do research of masternode coins, create masternode with only 1 click on Masternodes.biz and buy the coins on Deliondex. It's a place for everything masternode.
 	<br />
-	However, in this last 3 years we faced a lot of obstacles to deliver what we had in mind, especially with Deliondex. Deliondex were created to bridge Indonesian investors into Masternode world where until now there is no Indonesian exchange that want to support masternode coins. 
-	Namun masih banyak hal yang belum maximal selama tiga tahun terakhir ini yang membuat kami terhambat khususnya pada salah satu produk kami yaitu <b>Deliondex</b>. Therefore, Delion Project has made many changes and we are targeting the Delion Project to become one of the big players in the world of cryptocurrency investment.
+	However, in this last 3 years we faced a lot of obstacles to deliver what we had in mind, especially with Deliondex. Deliondex were created to bridge Indonesian investors into Masternode world where until now there is no Indonesian exchange that want to support masternode coins. Therefore, Delion Project has made many changes and we are targeting the Delion Project to become one of the big players in the world of cryptocurrency investment.
 	<br />
 	In 2022 we are focused on maximizing profits across all of our business lines and increasing the economic value of Delion Coin especially against Delion Masternodes apart from volatile market prices.
 </p>
